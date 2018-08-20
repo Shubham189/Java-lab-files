@@ -14,6 +14,6 @@ class pf
 		if(n==sum)
 			System.out.println("\nPerfect!!");
 		else
-						System.out.println("\nNot perfect!!");
+			System.out.println("\nNot perfect!!");
 	}
 }	
