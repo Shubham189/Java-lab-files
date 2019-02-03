@@ -15,6 +15,6 @@ class pal
 		if(n==rev)
 			System.out.println("\nPalindrome!!");
 		else
-			System.out.println("\nNot Palindrome!!");
+						System.out.println("\nNot Palindrome!!");
 	}
 }	

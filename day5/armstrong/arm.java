@@ -19,13 +19,13 @@ class prog4
 			{
 				y*=x;
 			}
-			sum+=y;
-			y=1;
-			a/=10;
+		sum+=y;
+		y=1;
+		a/=10;
 		}
-		if(sum==n)
-			System.out.println("\nArmstrong!");
-		else
-			System.out.println("\nNot a Armstrong!");
+	if(sum==n)
+		System.out.println("\nArmstrong!");
+	else
+		System.out.println("\nNot a Armstrong!");
 	}
 }
